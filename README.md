@@ -5,5 +5,4 @@
 ![status](https://img.shields.io/badge/offer_welcome-brightgreen.svg)
 
 ## 소개
-![프로필이미지](https://github.com/korea3611/resume/raw/master/images/profile.jpeg)
-
+<img src="images/profile.jpeg" width="200" height="300">
