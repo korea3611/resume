@@ -30,7 +30,9 @@
 ### B2B 플랫폼 개발 2022-07~2022-09
 **[기술 스택]**
 - 어플리케이션 API 서버 : Spring Boot 2.6.5 / JPA(Spring Data JPA) / Java 17
+
 **[역할]**
+
 - 보안프로퍼티 관리를 위한 AWS secret manager 연동
 - 알림 이메일을 위한 AWS SES 사용
 - B2B 백오피스 API 개발
@@ -39,6 +41,7 @@
 ### 배송 추적 api(goodsflow) 연동
 **[기술 스택]**
 - 어플리케이션 API 서버 : nodejs, mongoDB
+
 **[역할]**
 - goodsflow사와 협력하여 상품별 배송 추적 시스템 추가, 개선
 
