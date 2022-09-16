@@ -28,6 +28,7 @@
 ### B2B 플랫폼 개발 2022-07~2022-09
 **[기술 스택]**
 - 어플리케이션 API 서버 : Spring Boot 2.6.5 / JPA(Spring Data JPA) / Java 17
+- DB : postgresql
 
 **[역할]**
 
@@ -38,7 +39,8 @@
     
 ### 배송 추적 api(goodsflow) 연동
 **[기술 스택]**
-- 어플리케이션 API 서버 : nodejs, mongoDB
+- 어플리케이션 API 서버 : nodejs
+- DB : mongoDB
 
 **[역할]**
 - goodsflow사와 협력하여 상품별 배송 추적 시스템 추가, 개선
@@ -189,10 +191,22 @@
 **[시스템 구성도]**
 
 <img src="images/mentoring.png" width="500" height="300">
-    
+
+---
+
+## Skill
+굵게 표시되지 않은 Skill은 이론적으로 공부해본 적 없이 사용 경험만 있는 수준입니다.
+- Language : **Java**, **JavaScript**, Python  
+- Backend : **Spring Boot**, **nodejs**
+- DevOps : Docker, k8s, jenkins
+- Database : Mysql, **postgresql**
+
+---
 
 ## 💁🏻사회 활동
 **네팔 해외봉사단 활동** (2018.10 ~ 2019.1)
+
+---
 
 ## 🔫 병역
 
